@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables locales sensibles
+.env
+
+# Logs
+*.log
